@@ -26,4 +26,5 @@ Uses Wolfram to create a dynamic map showing each gas station with a color to di
 When the user clicks an individual gas station, more information will be shown including the gas station name, address, average unit cost, average difference between its average and the total average, and the percent difference.
 
 **Note**
+
 This project was intended to be deployed as a web application; however, Wolfram One Cloud doesn't yet support dynamic maps which are integral to our project. Therefore, for judging purposes we have submitted a video of how it will work once that feature is supported.
