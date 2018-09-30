@@ -4,9 +4,9 @@ Kyle McNamara, Sean Coughlin, James Austgin, Isaac Warren
 
 **General Program Description**
 
-Greatest Gallon helps Champaign-Urbana decide where to find the cheapest gas. Greatest Gallon displays where to get the cheapest gas on an interactive map for these organizations to help reduce their costs.
+Greatest Gallon helps Champaign-Urbana decide where to find the cheapest gas. Greatest Gallon displays where to get the cheapest gas on a Wolfram Interactive interactive map for these organizations to help reduce their costs.
 
-**Python Script parseGasStops**
+**Python Script parseGasStops (parseGasStops.py)**
 
 Takes in an excel spreadsheet and an alphabetized version of the spreadsheet by gas station name.
 
@@ -17,7 +17,7 @@ average difference of the unit cost of each gas station and the total average un
 
 Returns as a csv file.
 
-**Wolfram Program**
+**Wolfram Program (gas3.nb)**
 
 Takes in csv file that parseGasStops returns.
 
