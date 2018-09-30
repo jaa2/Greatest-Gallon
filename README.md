@@ -1,5 +1,5 @@
 # Greatest-Gallon
-Kyle McNamara, Sean Coughlin, James Austgin, Isaac Warren
+Kyle McNamara, Sean Coughlin, James Austgen, Isaac Warren
 
 
 **General Program Description**
