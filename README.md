@@ -4,8 +4,7 @@ Kyle McNamara, Sean Coughlin, James Austgin, Isaac Warren
 
 **General Program Description**
 
-This program is for the police department, fire department, and other Champaign-Urbana public service vehicles. 
-Greatest Gallon will display where to get the cheapest gas for these organizations to help reduce their costs.
+Greatest Gallon helps Champaign-Urbana decide where to find the cheapest gas. Greatest Gallon displays where to get the cheapest gas on an interactive map for these organizations to help reduce their costs.
 
 **Python Script parseGasStops**
 
