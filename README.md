@@ -24,9 +24,9 @@ Takes in csv file that parseGasStops returns.
 Uses Wolfram to create a dynamic map showing each gas station with a color to display how cheap or expensive it is (from green (cheap) to red (expensive)). 
 When the user clicks an individual gas station, more information will be shown including the gas station name, address, average unit cost, average difference between its average and the total average, and the percent difference.
 
-**GreatestGallon_Wolfram_Output.mp4**
+**Project Video (GreatestGallon_Wolfram_Output.mp4)**
 
-Example video of how the program runs.
+Example video of how the program runs in Wolfram One desktop.
 
 **Note**
 
