@@ -2,7 +2,7 @@ import pandas
 import csv as cs
 
 #Import provided dataset
-csv = pandas.read_csv("/home/isaac/Downloads/Copy of fuel_card_exportcsvalphabet.csv")
+csv = pandas.read_csv("fuel_card_exportcsvalphabet.csv")
 
 #Create a dataset with one entry for each station
 namededuped = csv.drop_duplicates("Merchant Street Address")
@@ -43,7 +43,7 @@ for each in out:
     each[4] = ((2.35 - each[2]) / 2.35) * 100.0
 
 #Write the final out list to a csv
-with open('/home/isaac/Documents/export.csv', 'w', newline='') as myfile:
+with open('export.csv', 'w', newline='') as myfile:
     wr = cs.writer(myfile, quoting=cs.QUOTE_ALL)
     for each in out:
         wr.writerow(each)
